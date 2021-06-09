@@ -7,5 +7,5 @@ library(tibble)  # column_to_rownames
 ###
 
 DATA_DIR <- '../data/'
-OUT_DIR <- '../images/'
+OUT_DIR <- '../images'
 
