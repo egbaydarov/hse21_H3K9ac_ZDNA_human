@@ -3,8 +3,8 @@ source('lib.R')
 
 ###
 
-#NAME <- 'H3K9ac_H1.ENCFF584EB0.hg19'
-NAME <- 'H3K9ac_H1.ENCFF754YLR.hg19'
+NAME <- 'H3K9ac_H1.ENCFF584EB0.hg19'
+#NAME <- 'H3K9ac_H1.ENCFF754YLR.hg19'
 
 ###
 
